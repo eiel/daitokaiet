@@ -1,3 +1,9 @@
 language: ruby
 rvm:
-  - 2.0.0
+- 2.0.0
+deploy:
+  provider: heroku
+  api_key:
+    secure: cR4nOiPf31ikQrtw7YML1nGc4c2BHv4cj3TbnbKcnWGSDOYROHQT0jC0V2lhZcO1vskdNiYQgcdoeZUQEU3wkdB+uaAvd8B6QWx1/Hye8/HZWDFC3HDZw+nxLtW8HwwzHBqHbm/rGwTbqN4la0HTvanlkDZ6TGFdSXzogamQkO8=
+  app:
+    travis-deploy: daitokaiet-staging
