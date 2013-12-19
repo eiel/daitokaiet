@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/LuckOfWise/daitokaiet.png)](https://travis-ci.org/LuckOfWise/daitokaiet)
 [![Code Climate](https://codeclimate.com/github/LuckOfWise/daitokaiet.png)](https://codeclimate.com/github/LuckOfWise/daitokaiet)
 
+hoge
+
 # #daitokaiet
 
 [Social daiet at DAITOKAI!!!](http://daitokaiet.herokuapp.com/)
